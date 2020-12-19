@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "rootDir": "src",
+    "jsx": "react",
+    "target": "es2018",
+    "strict": true,
+    "outDir": "built",
+    "inlineSources": true,
+    "inlineSourceMap": true,
+    "baseUrl": "src",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "types": ["react", "react-dom"]
+  }
+}

@@ -1,0 +1,9 @@
+log.txt
+node_modules
+out.zip
+out.xml
+.vscode
+built
+dist
+*.so
+hub/example_receiver/example
